@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/powell-thomas/static/css/main.d40f3ebc.css",
+    "main.js": "/powell-thomas/static/js/main.909242a0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/powell-thomas/static/js/787.28cb0dcd.chunk.js",
+    "static/media/profile-bg.png": "/powell-thomas/static/media/profile-bg.2bdce3e9f8bda08d45c9.png",
+    "static/media/logo.svg": "/powell-thomas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/powell-thomas/index.html",
+    "main.d40f3ebc.css.map": "/powell-thomas/static/css/main.d40f3ebc.css.map",
+    "main.909242a0.js.map": "/powell-thomas/static/js/main.909242a0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/powell-thomas/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d40f3ebc.css",
+    "static/js/main.909242a0.js"
+  ]
+}

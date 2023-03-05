@@ -1,0 +1,148 @@
+.rowContainer {
+  /* background-color: aquamarine; */
+  margin-top: 1vh !important;
+}
+.colProfile {
+  margin: 0.5vw;
+  background: rgb(226, 245, 232);
+  background: linear-gradient(
+    49deg,
+    rgba(226, 245, 232, 1) 0%,
+    rgba(218, 191, 213, 0.7527545592705167) 46%,
+    rgba(222, 245, 226, 0.7345174772036474) 92%
+  );
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-radius: 25px;
+}
+.profileDetails {
+  background-color: rgb(243, 239, 247);
+}
+.positionRelative {
+  position: relative;
+}
+.positionAbsolute {
+  position: absolute;
+}
+.parentCenter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nameTitle {
+  font-size: xx-large;
+  font-weight: bolder;
+}
+.caseHeading {
+  text-align: center;
+  font-size: 60px;
+  line-height: 1.4;
+  font-weight: 700;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  background: -webkit-linear-gradient(63.99deg, #533966 1.17%, #2d3e96 91.59%);
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.hrStyle {
+  border: 0;
+  height: 1px;
+  color: darkblue;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.caseDesc {
+  font-size: 20px;
+  color: #000000;
+  font-weight: 300;
+  line-height: 2;
+}
+.studyCard {
+  margin: 0 0 30px;
+  padding: 0 0 30px;
+  width: 100%;
+  box-sizing: border-box;
+  border-bottom: 1px dashed rgba(167, 167, 167, 0.3);
+  transition: all 0.2s ease-in-out;
+}
+.thumbnail {
+  background-color: darkblue;
+  color: white;
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.thumbText {
+  font-size: x-large;
+  font-weight: bold;
+  line-height: 2;
+}
+.cardTitle {
+  color: #000;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: justify;
+  transition: all 0.2s ease-in-out;
+  line-height: 1.4;
+}
+.cardDesc {
+  font-size: 15px;
+  color: #000;
+  overflow-wrap: break-word;
+  line-height: 2;
+  text-align: justify;
+  height: 100px;
+  white-space: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.cardButton {
+  margin-top: 20px;
+}
+.cardButton {
+  color: #fff;
+  background-color: #00008b;
+  border-radius: 20px;
+  border-color: #00008b;
+  padding: 7px 20px;
+  margin: 20px 0 0;
+  font-size: 20px;
+  text-align: center;
+  width: max-content;
+}
+.cardContainer {
+  display: grid;
+  align-items: flex-start;
+}
+.detailTitle {
+  color: #000;
+  border-left: 10px solid #2d3e96;
+  font-size: 42px;
+  padding: 20px 30px;
+  margin: 0 -30px 60px;
+  line-height: 1.4;
+  font-weight: 700;
+}
+.detailContent {
+  margin-bottom: 30px;
+  font-weight: 400;
+}
+.detailsContainer {
+  text-align: justify;
+  line-height: 2;
+}
+.detailSubTitle {
+  font-size: 36px;
+  line-height: 1.4;
+  font-weight: 700;
+  margin: 0 0 10px;
+}

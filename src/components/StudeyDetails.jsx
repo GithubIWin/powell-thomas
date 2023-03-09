@@ -1,5 +1,6 @@
 import React from "react";
 import Button from "react-bootstrap/Button";
+import "./style.css";
 
 const StudeyDetails = (props) => {
   const { caseStudy, setOpenStudyDetail } = props;
@@ -24,9 +25,9 @@ const StudeyDetails = (props) => {
         </div>
       ))}
 
-      <Button variant="primary" onClick={HandleClick}>
+      <button  className="cardButton" onClick={HandleClick}>
         Go Back
-      </Button>
+      </button>
     </div>
   );
 };

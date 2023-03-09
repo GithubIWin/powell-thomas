@@ -13,12 +13,12 @@ const CaseStudySmall = (props) => {
   return (
     <Container className="studyCard">
       <Row>
-        <Col xs lg="4">
+        <Col xs={12} sm="12" md="12" lg="4">
           <div className="thumbnail" onClick={HandleClick}>
             <p className="thumbText">{caseStudy.thumbnail}</p>
           </div>
         </Col>
-        <Col xs lg="8">
+        <Col xs={12} sm="12" md="12" lg="8">
           <div className="cardContainer">
             <h3 className="cardTitle">{caseStudy.title}</h3>
             <p className="cardDesc">{caseStudy.description}</p>

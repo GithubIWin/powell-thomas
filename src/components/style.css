@@ -1,9 +1,6 @@
 .rowContainer {
   /* background-color: aquamarine; */
   margin-top: 1vh !important;
-}
-.colProfile {
-  margin: 0.5vw;
   background: rgb(226, 245, 232);
   background: linear-gradient(
     49deg,
@@ -12,7 +9,10 @@
     rgba(222, 245, 226, 0.7345174772036474) 92%
   );
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-  border-radius: 25px;
+  /* border-radius: 25px; */
+}
+.colProfile {
+  text-align: center;
 }
 .profileDetails {
   background-color: rgb(243, 239, 247);
@@ -29,8 +29,8 @@
   justify-content: center;
 }
 .nameTitle {
-  font-size: xx-large;
-  font-weight: bolder;
+  font-size: 3rem;
+  font-weight: 700;
 }
 .caseHeading {
   text-align: center;
@@ -113,7 +113,7 @@
   background-color: #00008b;
   border-radius: 20px;
   border-color: #00008b;
-  padding: 7px 20px;
+  padding: 2px 20px;
   margin: 20px 0 0;
   font-size: 20px;
   text-align: center;
@@ -145,4 +145,7 @@
   line-height: 1.4;
   font-weight: 700;
   margin: 0 0 10px;
+}
+.myImg {
+  filter: drop-shadow(20px 10px 40px pink);
 }

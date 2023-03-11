@@ -12,7 +12,7 @@
   /* border-radius: 25px; */
 }
 .colProfile {
-  text-align: center;
+  text-align: justify;
 }
 .profileDetails {
   background-color: rgb(243, 239, 247);
@@ -31,6 +31,7 @@
 .nameTitle {
   font-size: 3rem;
   font-weight: 700;
+  text-align: center;
 }
 .caseHeading {
   text-align: center;

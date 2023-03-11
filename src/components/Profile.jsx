@@ -23,14 +23,28 @@ const Profile = () => {
             <Col className="colProfile parentCenter">
               <div>
                 <p className="nameTitle">
-                  Hey There, <br /> I'm Powell Thomas
+                  Hey, <br /> Powell Thomas here!!
                 </p>
                 <p>
                   {" "}
-                  I co-founded a digital creative agency called Blusteak Media
-                  while I was at college. Now we are an acclaimed group of
-                  digital creative marketing team working in some crazy &
-                  challenging projects for ambitious brands.
+                  Greetings! I'm Powell, a seasoned performance marketing
+                  professional with over 4 years of experience managing 20+
+                  clients across 5 continents and diverse domains. With an
+                  overall budget of 5.8 Cr+ and generating 86 Cr+ in revenue, I
+                  have honed my expertise in executing comprehensive marketing
+                  strategies across all platforms.
+                </p>
+                <p>
+                  {" "}
+                  As a leader, I have successfully managed a 10-member team,
+                  ensuring the successful execution of campaigns and
+                  simultaneously managing 8+ clients on social media and paid
+                  channels with a monthly ad spend of 1.5 Cr.{" "}
+                </p>
+                <p>
+                  Proficient in HubSpot, Salesforce, Gartner, and Seamelss.ai, I
+                  create effective workflows for lead nurturing and onboarding,
+                  driving business growth and delivering exceptional results.
                 </p>
               </div>
             </Col>

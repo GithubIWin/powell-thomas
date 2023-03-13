@@ -127,7 +127,7 @@
   border-left: 10px solid #2d3e96;
   font-size: 42px;
   padding: 20px 30px;
-  margin: 0 -30px 60px;
+  margin: 0 0 60px;
   line-height: 1.4;
   font-weight: 700;
 }
@@ -159,9 +159,10 @@
 }
 .myImg {
   filter: drop-shadow(20px 10px 40px pink);
+  max-width: -webkit-fill-available;
 }
 .imgStyle {
   max-height: 550px;
-  max-width: 700px;
+  max-width: -webkit-fill-available;
   margin: 1vw;
 }

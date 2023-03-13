@@ -1,5 +1,4 @@
 .rowContainer {
-  /* background-color: aquamarine; */
   margin-top: 1vh !important;
   background: rgb(226, 245, 232);
   background: linear-gradient(
@@ -9,7 +8,6 @@
     rgba(222, 245, 226, 0.7345174772036474) 92%
   );
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-  /* border-radius: 25px; */
 }
 .colProfile {
   text-align: justify;
@@ -84,7 +82,7 @@
 .thumbText {
   font-size: x-large;
   font-weight: bold;
-  line-height: 2;
+  line-height: 1.5;
 }
 .cardTitle {
   color: #000;
@@ -147,6 +145,23 @@
   font-weight: 700;
   margin: 0 0 10px;
 }
+.subSubTitle {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.4;
+  margin: 0 0 10px;
+}
+.subheading {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.4;
+  margin: 0 0 10px;
+}
 .myImg {
   filter: drop-shadow(20px 10px 40px pink);
+}
+.imgStyle {
+  max-height: 550px;
+  max-width: 700px;
+  margin: 1vw;
 }

@@ -12,24 +12,7 @@ const Profile = () => {
       <Row className="justify-content-md-center ">
         <Col lg="9">
           <Row className="justify-content-md-center ">
-            <Col lg="7" className="colProfile parentCenter">
-              <div className="header_content">
-                <div className="header_section">
-                  <h2>Hello, I Am</h2>
-                  <h1>Powell Thomas</h1>
-                  <p>
-                    Proven Success in Performance Marketing for Your Business
-                    Needs. Let's Take Your Business to New Heights.
-                  </p>
-                  <div className="header_buttons">
-                    <a href="/caseStudies" className="bttn bttn-outline">
-                      View My Works
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </Col>
-            <Col lg="5" className="colProfile ">
+            <Col xs="12" sm="12" md="5" lg="5" xl="5" className="colProfile ">
               <Row className="imgSection">
                 <Col>
                   <Image
@@ -47,12 +30,16 @@ const Profile = () => {
                           <i class="fab fa-linkedin-in"></i>
                         </a>
                       </li>
-                      <li><a href="https://www.instagram.com/imsanketbodke/" target="blank"><i class="fab fa-instagram"></i></a></li>
                       <li>
                         <a
-                          href="tmspowell1@gmail.com"
+                          href="https://www.instagram.com/imsanketbodke/"
                           target="blank"
                         >
+                          <i class="fab fa-instagram"></i>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="tmspowell1@gmail.com" target="blank">
                           <i class="fas fa-phone-volume"></i>
                         </a>
                       </li>
@@ -60,6 +47,30 @@ const Profile = () => {
                   </div>
                 </Col>
               </Row>
+            </Col>
+            <Col
+              xs="12"
+              sm="12"
+              md="7"
+              lg="7"
+              xl="7"
+              className="colProfile parentCenter"
+            >
+              <div className="header_content">
+                <div className="header_section">
+                  <h2>Hello, I Am</h2>
+                  <h1>Powell Thomas</h1>
+                  <p>
+                    Proven Success in Performance Marketing for Your Business
+                    Needs. Let's Take Your Business to New Heights.
+                  </p>
+                  <div className="header_buttons">
+                    <a href="/caseStudies" className="bttn bttn-outline">
+                      View My Works
+                    </a>
+                  </div>
+                </div>
+              </div>
             </Col>
           </Row>
         </Col>

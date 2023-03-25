@@ -266,6 +266,12 @@ header {
   transition: 0.3s;
   color: #000;
 }
+.social-menu ul li .fas {
+  font-size: 30px;
+  line-height: 60px;
+  transition: 0.3s;
+  color: #000;
+}
 
 .social-menu ul li .fab:hover {
   color: #fff;

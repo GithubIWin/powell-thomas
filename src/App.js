@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Homepage from "./components/Homepage";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, HashRouter } from "react-router-dom";
 import About from "./components/About";
 import Contact from "./components/ContactForm";
 import CaseContainer from "./components/CaseContainer";
@@ -9,7 +9,7 @@ import HeaderSection from "./components/HeaderSection";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
         <HeaderSection />
         <Routes>
@@ -19,7 +19,7 @@ function App() {
           {/* <Route path="/contact" element={<Contact />} /> */}
         </Routes>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

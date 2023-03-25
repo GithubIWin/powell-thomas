@@ -55,11 +55,11 @@ const Profile = () => {
                           <i class="fab fa-instagram"></i>
                         </a>
                       </li>
-                      {/* <li>
+                      <li>
                         <a href="tmspowell1@gmail.com" target="blank">
                           <i class="fab fa-phone-volume"></i>
                         </a>
-                      </li> */}
+                      </li>
                     </ul>
                   </div>
                 </Col>

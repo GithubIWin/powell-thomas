@@ -12,12 +12,15 @@ function App() {
     <HashRouter>
       <div className="App">
         <HeaderSection />
-        <Routes>
+        <Homepage />
+        <CaseContainer />
+
+        {/* <Routes>
           <Route path="/" element={<Homepage />} />
           <Route path="/caseStudies" element={<CaseContainer />} />
           <Route path="/about" element={<About />} />
-          {/* <Route path="/contact" element={<Contact />} /> */}
-        </Routes>
+          <Route path="/contact" element={<Contact />} />
+        </Routes> */}
       </div>
     </HashRouter>
   );

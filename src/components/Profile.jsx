@@ -47,15 +47,19 @@ const Profile = () => {
                           <i class="fab fa-linkedin-in"></i>
                         </a>
                       </li>
-                      <li><a href="https://www.instagram.com/imsanketbodke/" target="blank"><i class="fab fa-instagram"></i></a></li>
                       <li>
                         <a
-                          href="tmspowell1@gmail.com"
+                          href="https://www.instagram.com/imsanketbodke/"
                           target="blank"
                         >
-                          <i class="fas fa-phone-volume"></i>
+                          <i class="fab fa-instagram"></i>
                         </a>
                       </li>
+                      {/* <li>
+                        <a href="tmspowell1@gmail.com" target="blank">
+                          <i class="fab fa-phone-volume"></i>
+                        </a>
+                      </li> */}
                     </ul>
                   </div>
                 </Col>

@@ -18,7 +18,7 @@ const ResultScreens = () => {
             </h1>
 
             {screenshotData.map((img, key) => (
-              <Col key={key}>
+              <Col key={key} className="sc_col">
                 <Image className="imgStyle imgWidth boxShadow" src={img.src} alt={img.alt} />
                 {img.caption && (
                   <p>

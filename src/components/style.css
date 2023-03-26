@@ -32,6 +32,11 @@
   align-items: center;
   justify-content: center;
 }
+@media only screen and (max-width: 768px) {
+  .parentCenter {
+    margin-top: 30px !important;
+  }
+}
 .nameTitle {
   font-size: 2rem;
   font-weight: 700;
@@ -268,6 +273,8 @@ header {
 .social-menu ul {
   margin: 0;
   display: flex;
+  padding: 0;
+  justify-content: center;
 }
 
 .social-menu ul li {
@@ -309,5 +316,30 @@ header {
   background-color: red;
 }
 .social-menu ul li:nth-child(3) a:hover {
-  background-color:green;
+  background-color: green;
+}
+/* counter */
+.counter_wrap{
+  /* display: grid; */
+  margin: 10px;
+  border-left: 10px solid #fca61f;
+  padding: 0 20px;
+}
+.cz_counter_num_wrap {
+  font-size: 80px;
+  color: #2d3e96;
+  font-weight: 700;
+}
+.cz_counter_after {
+  font-size: 20px;
+  color: #333;
+  font-weight: 700;
+  font-style: italic;
+}
+.cz_counter_num_wrap i {
+  color: #2d3e96;
+}
+.cz_counter_num_wrap i {
+  position: relative;
+  font-style: normal;
 }

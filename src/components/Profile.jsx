@@ -32,15 +32,15 @@ const Profile = () => {
                       </li>
                       <li>
                         <a
-                          href="https://www.instagram.com/imsanketbodke/"
+                          href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=tmspowell1@gmail.com"
                           target="blank"
                         >
-                          <i class="fab fa-instagram"></i>
+                          <i class="material-icons">email</i>
                         </a>
                       </li>
                       <li>
-                        <a href="tmspowell1@gmail.com" target="blank">
-                          <i class="fas fa-phone-volume"></i>
+                        <a href="tel:+919497731079" target="blank">
+                          <i class="fa fa-mobile-phone"></i>
                         </a>
                       </li>
                     </ul>

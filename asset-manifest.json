@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/powell-thomas/static/css/main.18ae568c.css",
-    "main.js": "/powell-thomas/static/js/main.f8543fc9.js",
+    "main.css": "/powell-thomas/static/css/main.c6e90d77.css",
+    "main.js": "/powell-thomas/static/js/main.0570166c.js",
     "static/js/787.28cb0dcd.chunk.js": "/powell-thomas/static/js/787.28cb0dcd.chunk.js",
     "static/media/powellSq.jpg": "/powell-thomas/static/media/powellSq.403112415d1f9a4b9ad6.jpg",
     "static/media/case_7_img1.jpg": "/powell-thomas/static/media/case_7_img1.8691e474776a1bdc3941.jpg",
     "static/media/case_7_img2.jpg": "/powell-thomas/static/media/case_7_img2.f846d6661904289e7cef.jpg",
-    "static/media/sc9.jpeg": "/powell-thomas/static/media/sc9.f132e9abdb9466ea30da.jpeg",
+    "static/media/sc9.jpeg": "/powell-thomas/static/media/sc9.647c9ea80bd9cb8e2d13.jpeg",
     "static/media/sc11.jpeg": "/powell-thomas/static/media/sc11.8cf6039910cbccd863dd.jpeg",
     "static/media/sc1.jpeg": "/powell-thomas/static/media/sc1.f7133053306ac9c07548.jpeg",
     "static/media/sc2.jpeg": "/powell-thomas/static/media/sc2.31f90b3126c704e5065f.jpeg",
@@ -33,12 +33,12 @@
     "static/media/case_3_google_ads.jpg": "/powell-thomas/static/media/case_3_google_ads.42882e1b77f2e5b089c4.jpg",
     "static/media/logo.svg": "/powell-thomas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/powell-thomas/index.html",
-    "main.18ae568c.css.map": "/powell-thomas/static/css/main.18ae568c.css.map",
-    "main.f8543fc9.js.map": "/powell-thomas/static/js/main.f8543fc9.js.map",
+    "main.c6e90d77.css.map": "/powell-thomas/static/css/main.c6e90d77.css.map",
+    "main.0570166c.js.map": "/powell-thomas/static/js/main.0570166c.js.map",
     "787.28cb0dcd.chunk.js.map": "/powell-thomas/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18ae568c.css",
-    "static/js/main.f8543fc9.js"
+    "static/css/main.c6e90d77.css",
+    "static/js/main.0570166c.js"
   ]
 }

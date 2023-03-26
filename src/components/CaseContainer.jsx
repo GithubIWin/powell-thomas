@@ -14,7 +14,7 @@ const CaseContainer = () => {
       <Row>
         <Col>
           {" "}
-          <h1 className="caseHeading">Case Studies</h1>
+          <h1 className="caseHeading fontSize60">Case Studies</h1>
           <p className="caseDesc">
             Having a clear Digital Marketing Strategy can help your brand to
             thrive in this mobile-first world. Yes, you can trust us to build

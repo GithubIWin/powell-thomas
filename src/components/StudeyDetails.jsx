@@ -123,6 +123,9 @@ const StudeyDetails = (props) => {
   };
   return (
     <div className="detailsContainer">
+      <p className="backArrow" onClick={HandleClick}>
+        <i class="fas fa-angle-double-left"></i>See Other case Studies
+      </p>
       <h1 className="detailTitle">{caseStudy.title}</h1>
       {caseStudy.details.map((iter, key) => (
         <p className="detailContent" key={key}>

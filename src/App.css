@@ -5,9 +5,9 @@
   box-sizing: border-box;
 }
 
-body {
+/* body {
   font-family: "Josefin Sans", sans-serif !important;
-}
+} */
 .App {
   background: linear-gradient(
     49deg,

@@ -14,6 +14,17 @@ import case_4_img2 from "./resources/casestudiesImg/case_4_img2.jpg";
 import case_5_img1 from "./resources/casestudiesImg/case_5_img1.jpg";
 import case_7_img1 from "./resources/casestudiesImg/case_7_img1.jpg";
 import case_7_img2 from "./resources/casestudiesImg/case_7_img2.jpg";
+import sc1 from "./resources/screenshots/sc1.jpeg";
+import sc2 from "./resources/screenshots/sc2.jpeg";
+import sc3 from "./resources/screenshots/sc3.jpeg";
+import sc4 from "./resources/screenshots/sc4.jpeg";
+import sc5 from "./resources/screenshots/sc5.jpeg";
+import sc6 from "./resources/screenshots/sc6.jpeg";
+import sc7 from "./resources/screenshots/sc7.jpeg";
+import sc8 from "./resources/screenshots/sc8.jpeg";
+import sc9 from "./resources/screenshots/sc9.jpeg";
+import sc10 from "./resources/screenshots/sc10.jpeg";
+import sc11 from "./resources/screenshots/sc11.jpeg";
 
 export const caseStudiesData = [
   {
@@ -425,8 +436,7 @@ export const caseStudiesData = [
     ],
   },
   {
-    thumbnail:
-      "Got 10x more inbound Calls!!",
+    thumbnail: "Got 10x more inbound Calls!!",
     title:
       "How We Helped Ayurdan Ayurveda Hospital Get More Admissions to Their Hospital",
     description:
@@ -720,4 +730,18 @@ export const caseStudiesData = [
   //     },
   //   ],
   // },
+];
+
+export const screenshotData = [
+  { src: sc1, alt: "sc1" },
+  { src: sc2, alt: "sc2" },
+  { src: sc3, alt: "sc3" },
+  { src: sc4, alt: "sc4" },
+  { src: sc5, alt: "sc5" },
+  { src: sc6, alt: "sc6" },
+  { src: sc7, alt: "sc7" },
+  { src: sc8, alt: "sc8" },
+  { src: sc9, alt: "sc9" },
+  { src: sc10, alt: "sc10" },
+  { src: sc11, alt: "sc11" },
 ];

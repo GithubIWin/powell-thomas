@@ -6,6 +6,7 @@ import About from "./components/About";
 import Contact from "./components/ContactForm";
 import CaseContainer from "./components/CaseContainer";
 import HeaderSection from "./components/HeaderSection";
+import ResultScreens from "./components/ResultScreens";
 
 function App() {
   return (
@@ -14,7 +15,7 @@ function App() {
         <HeaderSection />
         <Homepage />
         <CaseContainer />
-
+        <ResultScreens/>
         {/* <Routes>
           <Route path="/" element={<Homepage />} />
           <Route path="/caseStudies" element={<CaseContainer />} />

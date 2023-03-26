@@ -39,7 +39,6 @@
 }
 .caseHeading {
   text-align: center;
-  font-size: 60px;
   line-height: 1.4;
   font-weight: 700;
   -webkit-box-decoration-break: clone;
@@ -53,6 +52,9 @@
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+}
+.fontSize60 {
+  font-size: 60px;
 }
 .hrStyle {
   border: 0;
@@ -75,8 +77,9 @@
   transition: all 0.2s ease-in-out;
 }
 .thumbnail {
-  background-color: darkblue;
-  color: white;
+  background-color: #fca61f;
+  text-align: center;
+  color: #073270;
   height: 100%;
   width: 100%;
   border-radius: 10px;
@@ -91,9 +94,9 @@
   line-height: 1.5;
 }
 .cardTitle {
-  color: #000;
+  color: #3f396f;
   text-decoration: none;
-  font-size: 24px;
+  font-size: 28px;
   font-weight: 700;
   text-align: justify;
   transition: all 0.2s ease-in-out;
@@ -112,17 +115,23 @@
 }
 .cardButton {
   margin-top: 20px;
+  outline: none;
+  border: none;
+  text-decoration: none;
 }
 .cardButton {
-  color: #fff;
-  background-color: #00008b;
   border-radius: 20px;
-  border-color: #00008b;
-  padding: 2px 20px;
+  padding: 5px 20px;
   margin: 20px 0 0;
   font-size: 20px;
   text-align: center;
   width: max-content;
+  background-color: #6f34fe;
+  color: white;
+}
+.cardButton:hover {
+  background-color: #fca61f;
+  color: #6f34fe;
 }
 .cardContainer {
   display: grid;
@@ -174,7 +183,12 @@
   max-width: -webkit-fill-available;
   margin: 1vw;
 }
-
+.boxShadow {
+  box-shadow: rgba(149, 157, 165, 1) 0px 8px 24px;
+}
+.imgWidth {
+  width: -webkit-fill-available;
+}
 .navbar_items a {
   text-decoration: none;
   color: black;
@@ -261,20 +275,14 @@ header {
   margin: 0 15px;
 }
 
-.social-menu ul li .fab {
-  font-size: 30px;
-  line-height: 60px;
-  transition: 0.3s;
-  color: #000;
-}
-.social-menu ul li .fas {
+.social-menu ul li i {
   font-size: 30px;
   line-height: 60px;
   transition: 0.3s;
   color: #000;
 }
 
-.social-menu ul li .fab:hover {
+.social-menu ul li i:hover {
   color: #fff;
 }
 

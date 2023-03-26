@@ -1,14 +1,25 @@
 {
   "files": {
-    "main.css": "/powell-thomas/static/css/main.c47ca74e.css",
-    "main.js": "/powell-thomas/static/js/main.183512fc.js",
+    "main.css": "/powell-thomas/static/css/main.b25816b3.css",
+    "main.js": "/powell-thomas/static/js/main.97375088.js",
     "static/js/787.28cb0dcd.chunk.js": "/powell-thomas/static/js/787.28cb0dcd.chunk.js",
     "static/media/powellSq.jpg": "/powell-thomas/static/media/powellSq.403112415d1f9a4b9ad6.jpg",
     "static/media/case_7_img1.jpg": "/powell-thomas/static/media/case_7_img1.8691e474776a1bdc3941.jpg",
     "static/media/case_7_img2.jpg": "/powell-thomas/static/media/case_7_img2.f846d6661904289e7cef.jpg",
+    "static/media/sc9.jpeg": "/powell-thomas/static/media/sc9.f132e9abdb9466ea30da.jpeg",
+    "static/media/sc11.jpeg": "/powell-thomas/static/media/sc11.8cf6039910cbccd863dd.jpeg",
+    "static/media/sc1.jpeg": "/powell-thomas/static/media/sc1.f7133053306ac9c07548.jpeg",
+    "static/media/sc2.jpeg": "/powell-thomas/static/media/sc2.31f90b3126c704e5065f.jpeg",
+    "static/media/sc10.jpeg": "/powell-thomas/static/media/sc10.b8bab1b4631eb90cd17f.jpeg",
+    "static/media/sc8.jpeg": "/powell-thomas/static/media/sc8.01edc8b604b68534e5e1.jpeg",
+    "static/media/sc3.jpeg": "/powell-thomas/static/media/sc3.f2b28ecce645a1eeed73.jpeg",
     "static/media/case_5_img1.jpg": "/powell-thomas/static/media/case_5_img1.11983e9913ae8f65c0c9.jpg",
+    "static/media/sc4.jpeg": "/powell-thomas/static/media/sc4.7d98ddd847f8d97f0806.jpeg",
+    "static/media/sc5.jpeg": "/powell-thomas/static/media/sc5.298dbd7cfe2daa8376fb.jpeg",
+    "static/media/sc6.jpeg": "/powell-thomas/static/media/sc6.298dbd7cfe2daa8376fb.jpeg",
     "static/media/case_3_insta.jpg": "/powell-thomas/static/media/case_3_insta.5c9c0b082437aaf4b132.jpg",
     "static/media/ayurvedicImg2.jpg": "/powell-thomas/static/media/ayurvedicImg2.7fecfc6008f000e00c88.jpg",
+    "static/media/sc7.jpeg": "/powell-thomas/static/media/sc7.01d1823f2c0d42687f0c.jpeg",
     "static/media/ayurvedicImg1.jpg": "/powell-thomas/static/media/ayurvedicImg1.c6dc366b939ed7c6ec41.jpg",
     "static/media/case_3_yt.jpg": "/powell-thomas/static/media/case_3_yt.69c0900c23b12829509a.jpg",
     "static/media/case_3_result1.jpg": "/powell-thomas/static/media/case_3_result1.4e12d5892a14b414c17a.jpg",
@@ -22,12 +33,12 @@
     "static/media/case_3_google_ads.jpg": "/powell-thomas/static/media/case_3_google_ads.42882e1b77f2e5b089c4.jpg",
     "static/media/logo.svg": "/powell-thomas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/powell-thomas/index.html",
-    "main.c47ca74e.css.map": "/powell-thomas/static/css/main.c47ca74e.css.map",
-    "main.183512fc.js.map": "/powell-thomas/static/js/main.183512fc.js.map",
+    "main.b25816b3.css.map": "/powell-thomas/static/css/main.b25816b3.css.map",
+    "main.97375088.js.map": "/powell-thomas/static/js/main.97375088.js.map",
     "787.28cb0dcd.chunk.js.map": "/powell-thomas/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c47ca74e.css",
-    "static/js/main.183512fc.js"
+    "static/css/main.b25816b3.css",
+    "static/js/main.97375088.js"
   ]
 }

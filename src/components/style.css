@@ -321,7 +321,7 @@ header {
   background-color: green;
 }
 /* counter */
-.counter_wrap{
+.counter_wrap {
   /* display: grid; */
   margin: 10px;
   border-left: 10px solid #fca61f;
@@ -345,8 +345,14 @@ header {
   position: relative;
   font-style: normal;
 }
-.sc_col{
+.sc_col {
   padding: 10px;
-    border-bottom: 2px dashed rgba(167, 167, 167, 0.3);
-    transition: all 0.2s ease-in-out;
+  border-bottom: 2px dashed rgba(167, 167, 167, 0.3);
+  transition: all 0.2s ease-in-out;
+}
+.backArrow {
+  color: darkblue;
+  font-size: large;
+  text-decoration: underline;
+  cursor: pointer;
 }

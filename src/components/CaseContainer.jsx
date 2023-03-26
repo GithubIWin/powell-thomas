@@ -6,9 +6,11 @@ import { caseStudiesData } from "../static";
 import CaseStudySmall from "./CaseStudySmall";
 import StudeyDetails from "./StudeyDetails";
 
-const CaseContainer = () => {
+const CaseContainer = (props) => {
   const [seletedStudy, setSelectedStudy] = useState({});
-  const [openStudyDetail, setOpenStudyDetail] = useState(false);
+  // const [openStudyDetail, setOpenStudyDetail] = useState(false);
+  const {openStudyDetail, setOpenStudyDetail} = props
+
   return (
     <Container>
       <Row>

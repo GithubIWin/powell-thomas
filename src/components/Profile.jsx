@@ -64,11 +64,26 @@ const Profile = () => {
                     Proven Success in Performance Marketing for Your Business
                     Needs. Let's Take Your Business to New Heights.
                   </p>
-                  <div className="header_buttons">
-                    <a href="/caseStudies" className="bttn bttn-outline">
-                      View My Works
-                    </a>
-                  </div>
+                    <Row>
+                      <Col lg="6" xl="6"  md="6" sm="12" xs="12">
+                        <div class="counter_wrap">
+                          <h1 class="cz_counter_num_wrap">
+                            <span class="cz_counter_num">55</span>
+                            <i>Mn+</i>
+                          </h1>
+                          <span class="cz_counter_after">AD SPEND</span>
+                        </div>
+                      </Col>
+                      <Col lg="6" xl="6" md="6"  sm="12" xs="12">
+                        <div class="counter_wrap">
+                          <h1 class="cz_counter_num_wrap">
+                            <span class="cz_counter_num">500</span>
+                            <i>Mn+</i>
+                          </h1>
+                          <span class="cz_counter_after">REVENUE</span>
+                        </div>
+                      </Col>
+                    </Row>
                 </div>
               </div>
             </Col>

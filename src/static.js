@@ -32,12 +32,12 @@ export const caseStudiesData = [
       "Reduced LinkedIn Ads CPL by 23% and 28% Increase in Conversion Rate for a B2B SaaS Client",
     title: "Reduced LinkedIn Ads CPL by 23% for a B2B SaaS Client",
     description:
-      "Blusteak recently ran a series of Linkedin Lead Generation Ads for a Quality Management SaaS platform. The client has a lot of products catering to different industries, and it continuously faced a high CPL (Cost Per Lead) for its ads. We worked on multiple targeting combinations. And within a month, the CPL (Cost Per Lead) came down by 23% of what it had been earlier. The number of quality leads also went up from 54% to a spectacular 80%. Read this case study to find out how Blusteak did it.",
+      "We recently ran a series of Linkedin Lead Generation Ads for a Quality Management SaaS platform. The client has a lot of products catering to different industries, and it continuously faced a high CPL (Cost Per Lead) for its ads. We worked on multiple targeting combinations. And within a month, the CPL (Cost Per Lead) came down by 23% of what it had been earlier. The number of quality leads also went up from 54% to a spectacular 80%. Read this case study to find out how We did it.",
     details: [
-      "Blusteak had a colourful start to the year, marketing Kerala Literature Festival (KLF), the second-largest literature festival in Asia. We created many interesting campaigns and content that resulted in a huge growth of its social media channels. We also shared fun activities and promoted ongoing updates to keep the audience updated on everything.",
+      "We had a colourful start to the year, marketing Kerala Literature Festival (KLF), the second-largest literature festival in Asia. We created many interesting campaigns and content that resulted in a huge growth of its social media channels. We also shared fun activities and promoted ongoing updates to keep the audience updated on everything.",
       "Many of the Reels we created went over 100K and 200K views; a first for this page.",
       "And within 2 months of posting, the IG page saw a 6x increase in engagement and a 100% growth in followers. We achieved a collective view count of over 13 Lakhs with only 29 Reels.",
-      "Read this case study to find out how Blusteak did it.",
+      "Read this case study to find out how We did it.",
     ],
     contents: [
       {
@@ -64,9 +64,9 @@ export const caseStudiesData = [
     thumbnail: "1448% increase in sales vis hyper-targeting within 6 days",
     title: "Return of 10.65 For Every Rupee Spent for an Ayurvedic Brand",
     description:
-      "Blusteak recently collaborated with an ayurvedic product brand to help them generate more sales with the help of a targeted campaign. We saw a jump of 1448% in sales through the online store within a month of launching the campaign.",
+      "We recently collaborated with an ayurvedic product brand to help them generate more sales with the help of a targeted campaign. We saw a jump of 1448% in sales through the online store within a month of launching the campaign.",
     details: [
-      "Blusteak recently collaborated with an ayurvedic product brand to help them generate more sales with the help of a targeted campaign. We saw a jump of 1448% in sales through the online store within a month of launching the campaign.",
+      "We recently collaborated with an ayurvedic product brand to help them generate more sales with the help of a targeted campaign. We saw a jump of 1448% in sales through the online store within a month of launching the campaign.",
       "If you’re wondering how we did that, keep reading!",
     ],
     contents: [
@@ -159,11 +159,11 @@ export const caseStudiesData = [
     thumbnail:
       "Achieved 50% conversion rate for an alternate education startup",
     title:
-      "How Blusteak Converted Over 50% of the Students at a Technology School",
+      "How We Converted Over 50% of the Students at a Technology School",
     description:
-      "Blusteak recently collaborated with a startup ecosystem generating company in Kerala. The marketing department launched Facebook and Google ads and reached out to influencers to boost lead generation. Within a month, Blusteak’s team was able to convert 18 leads out of a total of 30 students, and more are to be added. This case study proves how they have done it. Let’s have a run through their journey.",
+      "We recently collaborated with a startup ecosystem generating company in Kerala. The marketing department launched Facebook and Google ads and reached out to influencers to boost lead generation. Within a month, Our team was able to convert 18 leads out of a total of 30 students, and more are to be added. This case study proves how they have done it. Let’s have a run through their journey.",
     details: [
-      "Blusteak recently collaborated with a startup ecosystem generating company in Kerala. The marketing department launched Facebook and Google ads and reached out to influencers to boost lead generation. Within a month, Blusteak’s team was able to convert 18 leads out of a total of 30 students, and more are to be added. This case study proves how they have done it. Let’s have a run through their journey.",
+      "We recently collaborated with a startup ecosystem generating company in Kerala. The marketing department launched Facebook and Google ads and reached out to influencers to boost lead generation. Within a month, Our team was able to convert 18 leads out of a total of 30 students, and more are to be added. This case study proves how they have done it. Let’s have a run through their journey.",
     ],
     contents: [
       {
@@ -176,7 +176,7 @@ export const caseStudiesData = [
       {
         subHead: "Brand Concern",
         details: [
-          "Our client wanted Blusteak to handle their lead generation and conversation through Instagram, Facebook, and YouTube. They were having issues dealing with generating leads for technology schools as they were doing paid ads at that time, and it wasn’t giving them what they had expected. They didn’t have a great time through their social media interactions with influencers. So, we had to look forward to catching up with influencers and launching engaging paid ads.",
+          "Our client wanted We to handle their lead generation and conversation through Instagram, Facebook, and YouTube. They were having issues dealing with generating leads for technology schools as they were doing paid ads at that time, and it wasn’t giving them what they had expected. They didn’t have a great time through their social media interactions with influencers. So, we had to look forward to catching up with influencers and launching engaging paid ads.",
         ],
       },
       {
@@ -294,7 +294,7 @@ export const caseStudiesData = [
           "The videos shared by the influencers reached a great audience, and the videos were reshared. We can see that many have saved the video and shared it through the insights. There were more than 1 lakh + plays for the video of one influencer from both YouTube and Instagram, as the above pictures a and b represent. This helped them get a lead generation system.",
           "We got our most views from Instagram, but the conversion generated was more from YouTube. It shows that YouTube videos have the potential to generate more conversions than Instagram. 60% of the leads came from YouTube and the rest, 40%, were from Instagram.",
           "With paid ads, we could generate over 220 leads that contributed to a significant number of admissions for our client. Our change in strategy helped revive their paid ad campaign with good leads.",
-          "Within a month, Blusteak’s team was able to convert 18 leads out of a total of 30 students, and more are to be added.",
+          "Within a month, Our team was able to convert 18 leads out of a total of 30 students, and more are to be added.",
         ],
         images: [
           {
@@ -315,9 +315,9 @@ export const caseStudiesData = [
     thumbnail: "Generated ROAS above 12 for a D2C Brand in just 3 days",
     title: "Generated ROAS above 12 for a D2C Brand in just 3 days",
     description:
-      "Recently, Blusteak launched campaigns for our profound client, Alpha Ayurveda and were able to bring some extraordinary results. We reached a ROAS of 12.35 in just 3 days of launching our campaign. Let’s dive deeper into understanding the brand challenges, the steps taken and finally, the results drawn.",
+      "Recently, We launched campaigns for our profound client, Alpha Ayurveda and were able to bring some extraordinary results. We reached a ROAS of 12.35 in just 3 days of launching our campaign. Let’s dive deeper into understanding the brand challenges, the steps taken and finally, the results drawn.",
     details: [
-      "Recently, Blusteak launched campaigns for our profound client, Alpha Ayurveda and were able to bring some extraordinary results. We reached a ROAS of 12.35 in just 3 days of launching our campaign. Let’s dive deeper into understanding the brand challenges, the steps taken and finally, the results drawn.",
+      "Recently, We launched campaigns for our profound client, Alpha Ayurveda and were able to bring some extraordinary results. We reached a ROAS of 12.35 in just 3 days of launching our campaign. Let’s dive deeper into understanding the brand challenges, the steps taken and finally, the results drawn.",
     ],
     contents: [
       {
@@ -383,7 +383,7 @@ export const caseStudiesData = [
         details: [
           "Our result finally paid off.",
           "Within mere 3 days of our Eid offer, we were able to bring Rs. 65621 sales, achieving a ROAD of 12.35. Our ad got 123744 impressions and 1338 clicks. Fun fact, we only spent an amount of Rs. 5314 for this ad campaign.",
-          "Our Blusteak team dug deep into numbers and experimented with ads to finally give our clients a double-digit ROAS.",
+          "Our We team dug deep into numbers and experimented with ads to finally give our clients a double-digit ROAS.",
         ],
       },
     ],
@@ -394,9 +394,9 @@ export const caseStudiesData = [
     title:
       "Achieved Over 400 Quality Leads Within 5 Days for an Engineering College",
     description:
-      "Blusteak recently ran a quiz competition for an engineering college in Kerala. We aimed to collect as many leads as possible for the college before the admission season starts so they can have the edge over their competition.In this 5-day campaign, we got over 400 qualified leads, and our campaign reached more than 81,000 people. This case study will briefly talk about the brand, the challenges we faced, and our team’s steps to generate such phenomenal results.",
+      "We recently ran a quiz competition for an engineering college in Kerala. We aimed to collect as many leads as possible for the college before the admission season starts so they can have the edge over their competition.In this 5-day campaign, we got over 400 qualified leads, and our campaign reached more than 81,000 people. This case study will briefly talk about the brand, the challenges we faced, and our team’s steps to generate such phenomenal results.",
     details: [
-      "Blusteak recently ran a quiz competition for an engineering college in Kerala. We aimed to collect as many leads as possible for the college before the admission season starts so they can have the edge over their competition.",
+      "We recently ran a quiz competition for an engineering college in Kerala. We aimed to collect as many leads as possible for the college before the admission season starts so they can have the edge over their competition.",
       "In this 5-day campaign, we got over 400 qualified leads, and our campaign reached more than 81,000 people. This case study will briefly talk about the brand, the challenges we faced, and our team’s steps to generate such phenomenal results.",
     ],
     contents: [

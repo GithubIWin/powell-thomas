@@ -34,11 +34,11 @@ export const caseStudiesData = [
       "Reduced LinkedIn Ads CPL by 23% and 28% Increase in Conversion Rate for a B2B SaaS Client",
     title: "Reduced LinkedIn Ads CPL by 23% for a B2B SaaS Client",
     description:
-      "Blusteak recently ran a series of Linkedin Lead Generation Ads for a Quality Management SaaS platform. The client has a lot of products catering to different industries, and it continuously faced a high CPL (Cost Per Lead) for its ads. We worked on multiple targeting combinations. And within a month, the CPL (Cost Per Lead) came down by 23% of what it had been earlier. The number of quality leads also went up from 54% to a spectacular 80%. Read this case study to find out how Blusteak did it. ",
+      "Recently ran a series of Linkedin Lead Generation Ads for a Quality Management SaaS platform. The client has a lot of products catering to different industries, and it continuously faced a high CPL (Cost Per Lead) for its ads. We worked on multiple targeting combinations. And within a month, the CPL (Cost Per Lead) came down by 23% of what it had been earlier. The number of quality leads also went up from 54% to a spectacular 80%. Read this case study to find out how it is achieved. ",
     details: [
-      "Blusteak recently ran a series of Linkedin Lead Generation Ads for a Quality Management SaaS platform. The client has a lot of products catering to different industries, and it continuously faced a high CPL (Cost Per Lead) for its ads.",
+      "Recently ran a series of Linkedin Lead Generation Ads for a Quality Management SaaS platform. The client has a lot of products catering to different industries, and it continuously faced a high CPL (Cost Per Lead) for its ads.",
       "We worked on multiple targeting combinations. And within a month, the CPL (Cost Per Lead) came down by 23% of what it had been earlier. The number of quality leads also went up from 54% to a spectacular 80%.",
-      "Read this case study to find out how Blusteak did it. ",
+      "Read this case study to find out how it is achieved. ",
     ],
     contents: [
       {
@@ -126,16 +126,16 @@ export const caseStudiesData = [
     thumbnail: "1448% increase in sales vis hyper-targeting within 6 days",
     title: "Return of 10.65 For Every Rupee Spent for an Ayurvedic Brand",
     description:
-      "Blusteak recently collaborated with an ayurvedic product brand to help them generate more sales with the help of a targeted campaign. We saw a jump of 1448% in sales through the online store within a month of launching the campaign.",
+      "Recently collaborated with an ayurvedic product brand to help them generate more sales with the help of a targeted campaign. We saw a jump of 1448% in sales through the online store within a month of launching the campaign.",
     details: [
-      "Blusteak recently collaborated with an ayurvedic product brand to help them generate more sales with the help of a targeted campaign. We saw a jump of 1448% in sales through the online store within a month of launching the campaign.",
+      "Recently collaborated with an ayurvedic product brand to help them generate more sales with the help of a targeted campaign. We saw a jump of 1448% in sales through the online store within a month of launching the campaign.",
       "If you’re wondering how we did that, keep reading!",
     ],
     contents: [
       {
         subHead: "About the Brand",
         details: [
-          "Alpha Ayurveda takes traditional ayurvedic recipes and formulas and incorporates them into natural, sustainable processes to create products for weight gain, hair fall, gas troubles, etc. The company is Ayurveda-based and run by experts in the ancient healing art. They’re on a mission to make the world a healthier place – and they’re making it possible with the help of Ayurveda.",
+          "This ayurvedic product brand takes traditional ayurvedic recipes and formulas and incorporates them into natural, sustainable processes to create products for weight gain, hair fall, gas troubles, etc. The company is Ayurveda-based and run by experts in the ancient healing art. They’re on a mission to make the world a healthier place – and they’re making it possible with the help of Ayurveda.",
         ],
       },
       {
@@ -220,12 +220,11 @@ export const caseStudiesData = [
   {
     thumbnail:
       "Achieved 50% conversion rate for an alternate education startup",
-    title:
-      "How Blusteak Converted Over 50% of the Students at a Technology School",
+    title: "How we Converted Over 50% of the Students at a Technology School",
     description:
-      "Blusteak recently collaborated with a startup ecosystem generating company in Kerala. The marketing department launched Facebook and Google ads and reached out to influencers to boost lead generation. Within a month, Blusteak’s team was able to convert 18 leads out of a total of 30 students, and more are to be added. This case study proves how they have done it. Let’s have a run through their journey.",
+      "Recently collaborated with a startup ecosystem generating company in Kerala. The marketing department launched Facebook and Google ads and reached out to influencers to boost lead generation. Within a month, we were able to convert 18 leads out of a total of 30 students, and more are to be added. This case study proves how they have done it. Let’s have a run through their journey.",
     details: [
-      "Blusteak recently collaborated with a startup ecosystem generating company in Kerala. The marketing department launched Facebook and Google ads and reached out to influencers to boost lead generation. Within a month, Blusteak’s team was able to convert 18 leads out of a total of 30 students, and more are to be added. This case study proves how they have done it. Let’s have a run through their journey.",
+      "Recently collaborated with a startup ecosystem generating company in Kerala. The marketing department launched Facebook and Google ads and reached out to influencers to boost lead generation. Within a month, we were able to convert 18 leads out of a total of 30 students, and more are to be added. This case study proves how they have done it. Let’s have a run through their journey.",
     ],
     contents: [
       {
@@ -238,14 +237,14 @@ export const caseStudiesData = [
       {
         subHead: "Brand Concern",
         details: [
-          "Our client wanted Blusteak to handle their lead generation and conversation through Instagram, Facebook, and YouTube. They were having issues dealing with generating leads for technology schools as they were doing paid ads at that time, and it wasn’t giving them what they had expected. They didn’t have a great time through their social media interactions with influencers. So, we had to look forward to catching up with influencers and launching engaging paid ads.",
+          "Our client wanted to handle their lead generation and conversation through Instagram, Facebook, and YouTube. They were having issues dealing with generating leads for technology schools as they were doing paid ads at that time, and it wasn’t giving them what they had expected. They didn’t have a great time through their social media interactions with influencers. So, we had to look forward to catching up with influencers and launching engaging paid ads.",
         ],
       },
       {
         subHead: "Our challenge",
         details: [
           "Within a limited time, we can’t grow a brand whose social media engagements are not on the rise and whose brand awareness is not as pleasing for the audience to believe and focus their attention on. Our biggest challenge was creating a brand quality for the influencers, especially those in tech education",
-          "As technology schools are not active in giving a good social media appearance and brand development, influencers would doubt how relevant this is. Will their audience has any use for this?\n However, our team found and convinced some great influencers whose audience found our client’s technology school apt for their further education. Since previously paid ads weren’t doing well, we thought of coming up with new ideas, and they worked successfully.",
+          "As technology schools are not active in giving a good social media appearance and brand development, influencers would doubt how relevant this is. Will their audience has any use for this? However, our team found and convinced some great influencers whose audience found our client’s technology school apt for their further education. Since previously paid ads weren’t doing well, we thought of coming up with new ideas, and they worked successfully.",
         ],
       },
       {
@@ -352,11 +351,11 @@ export const caseStudiesData = [
       {
         subHead: "Final Results",
         details: [
-          "The final result was a great achievement for the client and us. Within one month, we got good quality leads, and from them, the most suitable and interested students were selected.\nThe insights show how well we, as influencers’ marketing department played our role in running the activities for generating leads.",
+          "The final result was a great achievement for the client and us. Within one month, we got good quality leads, and from them, the most suitable and interested students were selected.The insights show how well we, as influencers’ marketing department played our role in running the activities for generating leads.",
           "The videos shared by the influencers reached a great audience, and the videos were reshared. We can see that many have saved the video and shared it through the insights. There were more than 1 lakh + plays for the video of one influencer from both YouTube and Instagram, as the above pictures a and b represent. This helped them get a lead generation system.",
           "We got our most views from Instagram, but the conversion generated was more from YouTube. It shows that YouTube videos have the potential to generate more conversions than Instagram. 60% of the leads came from YouTube and the rest, 40%, were from Instagram.",
           "With paid ads, we could generate over 220 leads that contributed to a significant number of admissions for our client. Our change in strategy helped revive their paid ad campaign with good leads.",
-          "Within a month, Blusteak’s team was able to convert 18 leads out of a total of 30 students, and more are to be added.",
+          "Within a month, we were able to convert 18 leads out of a total of 30 students, and more are to be added.",
         ],
         images: [
           {
@@ -377,16 +376,16 @@ export const caseStudiesData = [
     thumbnail: "Generated ROAS above 12 for a D2C Brand in just 3 days",
     title: "Generated ROAS above 12 for a D2C Brand in just 3 days",
     description:
-      "Recently, Blusteak launched campaigns for our profound client, Alpha Ayurveda and were able to bring some extraordinary results. We reached a ROAS of 12.35 in just 3 days of launching our campaign. Let’s dive deeper into understanding the brand challenges, the steps taken and finally, the results drawn.",
+      "Recently, we launched campaigns for an Ayurvedic Brand and were able to bring some extraordinary results. We reached a ROAS of 12.35 in just 3 days of launching our campaign. Let’s dive deeper into understanding the brand challenges, the steps taken and finally, the results drawn.",
     details: [
-      "Recently, Blusteak launched campaigns for our profound client, Alpha Ayurveda and were able to bring some extraordinary results. We reached a ROAS of 12.35 in just 3 days of launching our campaign. Let’s dive deeper into understanding the brand challenges, the steps taken and finally, the results drawn.",
+      "Recently, we launched campaigns for an Ayurvedic Brand and were able to bring some extraordinary results. We reached a ROAS of 12.35 in just 3 days of launching our campaign. Let’s dive deeper into understanding the brand challenges, the steps taken and finally, the results drawn.",
     ],
     contents: [
       {
         subHead: "About the Brand",
         details: [
-          "Alpha Ayurveda is one of India’s top Ayurvedic supplement stores, with over twenty thousand satisfied customers. It believes in making the world a healthier place by using the formula Ayurveda. The brand offers various Ayurvedic supplements made through natural processes and pure ingredients.",
-          "Alpha Ayurveda is a part of Ayurveda Ayurveda Hospital that has over 40 years of experience in treating patients with the ideologies of Ayurveda. Staamigen Malt and Sakhi Tone are their best selling products on marketplaces like Amazon.",
+          "Our Client is one of India’s top Ayurvedic supplement stores, with over twenty thousand satisfied customers. It believes in making the world a healthier place by using the formula Ayurveda. The brand offers various Ayurvedic supplements made through natural processes and pure ingredients.",
+          "Client is a part of Ayurveda Hospital that has over 40 years of experience in treating patients with the ideologies of Ayurveda. Staamigen Malt and Sakhi Tone are their best selling products on marketplaces like Amazon.",
         ],
       },
       {
@@ -398,7 +397,7 @@ export const caseStudiesData = [
       {
         subHead: " The Ultimate solution",
         details: [
-          "We wanted to market two of Alpha Ayurveda’s most famous products, Stamigen Malt (for males) and Sakhi Tone (for females). To make the offer successful, we launched various campaigns like-",
+          "We wanted to market two  most famous products of our client, Stamigen Malt (for males) and Sakhi Tone (for females). To make the offer successful, we launched various campaigns like-",
         ],
         subSections: [
           {
@@ -411,7 +410,7 @@ export const caseStudiesData = [
             subHead:
               "2. Using Existing customer data for running Retargeting campaign",
             details: [
-              "Most of the people who visit your website for the first time don’t buy the product, so unless you keep track of them, they are forever lost. Since Alpha Ayurveda has a good flow of regular customers, retargeting ads work excellently. We used retargeting campaigns to market our Eid offers and bring back our lost buyers. A combination of retargeting ads with other advertising can help you at least 50% more stuff. And we did that too with Alpha Ayurveda products. ",
+              "Most of the people who visit your website for the first time don’t buy the product, so unless you keep track of them, they are forever lost. Since our client has a good flow of regular customers, retargeting ads work excellently. We used retargeting campaigns to market our Eid offers and bring back our lost buyers. A combination of retargeting ads with other advertising can help you at least 50% more stuff. And we did that too with these products. ",
             ],
           },
           {
@@ -423,7 +422,7 @@ export const caseStudiesData = [
           {
             subHead: "4. There were two sets of creatives",
             details: [
-              "We used the power of A/B testing on two of our creations for Alpha Ayurveda. Our team marketed two creatives, one for Shakitone and another for Stamigen. The results drawn from them were exceptional. We could see people purchasing the product through our on-part, clear marketing creative.",
+              "We used the power of A/B testing on two of our creations. Our team marketed two creatives, one for Shakitone and another for Stamigen. The results drawn from them were exceptional. We could see people purchasing the product through our on-part, clear marketing creative.",
             ],
             images: [
               {
@@ -445,7 +444,7 @@ export const caseStudiesData = [
         details: [
           "Our result finally paid off.",
           "Within mere 3 days of our Eid offer, we were able to bring Rs. 65621 sales, achieving a ROAD of 12.35. Our ad got 123744 impressions and 1338 clicks. Fun fact, we only spent an amount of Rs. 5314 for this ad campaign.",
-          "Our Blusteak team dug deep into numbers and experimented with ads to finally give our clients a double-digit ROAS.",
+          "We dug deep into numbers and experimented with ads to finally give our clients a double-digit ROAS.",
         ],
       },
     ],
@@ -456,9 +455,9 @@ export const caseStudiesData = [
     title:
       "Achieved Over 400 Quality Leads Within 5 Days for an Engineering College",
     description:
-      "Blusteak recently ran a quiz competition for an engineering college in Kerala. We aimed to collect as many leads as possible for the college before the admission season starts so they can have the edge over their competition.In this 5-day campaign, we got over 400 qualified leads, and our campaign reached more than 81,000 people. This case study will briefly talk about the brand, the challenges we faced, and our team’s steps to generate such phenomenal results.",
+      "Recently ran a quiz competition for an engineering college in Kerala. We aimed to collect as many leads as possible for the college before the admission season starts so they can have the edge over their competition.In this 5-day campaign, we got over 400 qualified leads, and our campaign reached more than 81,000 people. This case study will briefly talk about the brand, the challenges we faced, and our team’s steps to generate such phenomenal results.",
     details: [
-      "Blusteak recently ran a quiz competition for an engineering college in Kerala. We aimed to collect as many leads as possible for the college before the admission season starts so they can have the edge over their competition.",
+      "Recently ran a quiz competition for an engineering college in Kerala. We aimed to collect as many leads as possible for the college before the admission season starts so they can have the edge over their competition.",
       "In this 5-day campaign, we got over 400 qualified leads, and our campaign reached more than 81,000 people. This case study will briefly talk about the brand, the challenges we faced, and our team’s steps to generate such phenomenal results.",
     ],
     contents: [
@@ -500,15 +499,15 @@ export const caseStudiesData = [
   {
     thumbnail: "Got 10x more inbound Calls!!",
     title:
-      "How We Helped Ayurdan Ayurveda Hospital Get More Admissions to Their Hospital",
+      "How We Helped an ayurvedic hospital Get More Admissions to Their Hospital",
     description:
-      "Client: Ayurdan Ayurveda Hospital is one of the most renowned ayurvedic hospitals in pandalam, with more than 80 years of tradition. They provide authentic Ayurveda panchakarma treatment for joint pain, back pain, neck pain, PCOD, Migraine, tension, anxiety, skin problems, eye problems, etc.",
+      "Client: An ayurvedic hospital, which is one of the most renowned ayurvedic hospitals in  Pathanamthitta District in Kerala, with more than 80 years of tradition. They provide authentic Ayurveda panchakarma treatment for joint pain, back pain, neck pain, PCOD, Migraine, tension, anxiety, skin problems, eye problems, etc.",
     details: [],
     contents: [
       {
         subHead: "Client",
         details: [
-          "Ayurdan Ayurveda Hospital is one of the most renowned ayurvedic hospitals in pandalam, with more than 80 years of tradition. They provide authentic Ayurveda panchakarma treatment for joint pain, back pain, neck pain, PCOD, Migraine, tension, anxiety, skin problems, eye problems, etc.",
+          "An ayurvedic hospital, which is one of the most renowned ayurvedic hospitals in  Pathanamthitta District in Kerala, with more than 80 years of tradition. They provide authentic Ayurveda panchakarma treatment for joint pain, back pain, neck pain, PCOD, Migraine, tension, anxiety, skin problems, eye problems, etc.",
         ],
       },
       {
@@ -754,44 +753,44 @@ export const caseStudiesData = [
       },
     ],
   },
-  {
-    thumbnail: "",
-    title: "",
-    description: "",
-    details: [],
-    contents: [
-      {
-        subHead: "",
-        details: [],
-      },
-      {
-        subHead: "",
-        details: [],
-      },
-      {
-        subHead: "",
-        details: [],
-        subSections: [
-          {
-            subHead: "",
-            details: [],
-          },
+  // {
+  //   thumbnail: "",
+  //   title: "",
+  //   description: "",
+  //   details: [],
+  //   contents: [
+  //     {
+  //       subHead: "",
+  //       details: [],
+  //     },
+  //     {
+  //       subHead: "",
+  //       details: [],
+  //     },
+  //     {
+  //       subHead: "",
+  //       details: [],
+  //       subSections: [
+  //         {
+  //           subHead: "",
+  //           details: [],
+  //         },
 
-          {
-            subHead: "",
-            details: [],
-            images: [
-              {
-                src: "",
-                alt: "",
-                caption: "",
-              },
-            ],
-          },
-        ],
-      },
-    ],
-  },
+  //         {
+  //           subHead: "",
+  //           details: [],
+  //           images: [
+  //             {
+  //               src: "",
+  //               alt: "",
+  //               caption: "",
+  //             },
+  //           ],
+  //         },
+  //       ],
+  //     },
+  //   ],
+  // },
 ];
 
 export const screenshotData = [

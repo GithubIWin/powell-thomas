@@ -2,13 +2,14 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
+import "./style.css";
 
 const About = () => {
   return (
     <Container fluid className="rowContainer">
       <Row className="justify-content-md-center ">
         <Col lg="9">
-          <div>
+          <div className="aboutSec">
             <p>
               {" "}
               Greetings! I'm Powell, a seasoned performance marketing

@@ -362,3 +362,13 @@ header {
   text-decoration: underline;
   font-size: large;
 }
+.aboutSec {
+  text-align: justify;
+  /* font-size: 22px; */
+  line-height: 33px;
+  color: #200060;
+  font-weight: 700;
+  margin-bottom: 26px;
+  font-family: "Lato", sans-serif;
+  padding: 0 10px;
+}

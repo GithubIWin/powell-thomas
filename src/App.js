@@ -18,11 +18,11 @@ function App() {
       <div className="App">
         <HeaderSection />
         <Homepage />
+        {!openStudyDetail && <ResultScreens />}
         <CaseContainer
           openStudyDetail={openStudyDetail}
           setOpenStudyDetail={setOpenStudyDetail}
         />
-        {!openStudyDetail && <ResultScreens />}
         {/* <FooterCom/> */}
         {/* <Routes>
           <Route path="/" element={<Homepage />} />

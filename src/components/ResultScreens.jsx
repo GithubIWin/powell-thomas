@@ -19,14 +19,18 @@ const ResultScreens = () => {
 
             {screenshotData.map((img, key) => (
               <Col key={key} className="sc_col">
-                <Image className="imgStyle imgWidth boxShadow" src={img.src} alt={img.alt} />
                 {img.caption && (
                   <p>
                     <i>
-                      <b>{img.caption}</b>
+                      <b className="imgCaptionSc">{img.caption}</b>
                     </i>
                   </p>
                 )}
+                <Image
+                  className="imgStyle imgWidth boxShadow"
+                  src={img.src}
+                  alt={img.alt}
+                />
               </Col>
             ))}
           </Row>

@@ -1,3 +1,6 @@
+import case_1_img_1 from "./resources/casestudiesImg/case_1_img_1.jpeg";
+import case_1_img_2 from "./resources/casestudiesImg/case_1_img_2.jpeg";
+import case_1_img_3 from "./resources/casestudiesImg/case_1_img_3.jpeg";
 import ayurvedic1 from "./resources/casestudiesImg/ayurvedicImg1.jpg";
 import ayurvedic2 from "./resources/casestudiesImg/ayurvedicImg2.jpg";
 import ayur3 from "./resources/casestudiesImg/ayurImg3.jpg";
@@ -19,7 +22,6 @@ import sc2 from "./resources/screenshots/sc2.jpeg";
 import sc3 from "./resources/screenshots/sc3.jpeg";
 import sc4 from "./resources/screenshots/sc4.jpeg";
 import sc5 from "./resources/screenshots/sc5.jpeg";
-import sc6 from "./resources/screenshots/sc6.jpeg";
 import sc7 from "./resources/screenshots/sc7.jpeg";
 import sc8 from "./resources/screenshots/sc8.jpeg";
 import sc9 from "./resources/screenshots/sc9.jpeg";
@@ -32,12 +34,11 @@ export const caseStudiesData = [
       "Reduced LinkedIn Ads CPL by 23% and 28% Increase in Conversion Rate for a B2B SaaS Client",
     title: "Reduced LinkedIn Ads CPL by 23% for a B2B SaaS Client",
     description:
-      "Blusteak recently ran a series of Linkedin Lead Generation Ads for a Quality Management SaaS platform. The client has a lot of products catering to different industries, and it continuously faced a high CPL (Cost Per Lead) for its ads. We worked on multiple targeting combinations. And within a month, the CPL (Cost Per Lead) came down by 23% of what it had been earlier. The number of quality leads also went up from 54% to a spectacular 80%. Read this case study to find out how Blusteak did it.",
+      "Blusteak recently ran a series of Linkedin Lead Generation Ads for a Quality Management SaaS platform. The client has a lot of products catering to different industries, and it continuously faced a high CPL (Cost Per Lead) for its ads. We worked on multiple targeting combinations. And within a month, the CPL (Cost Per Lead) came down by 23% of what it had been earlier. The number of quality leads also went up from 54% to a spectacular 80%. Read this case study to find out how Blusteak did it. ",
     details: [
-      "Blusteak had a colourful start to the year, marketing Kerala Literature Festival (KLF), the second-largest literature festival in Asia. We created many interesting campaigns and content that resulted in a huge growth of its social media channels. We also shared fun activities and promoted ongoing updates to keep the audience updated on everything.",
-      "Many of the Reels we created went over 100K and 200K views; a first for this page.",
-      "And within 2 months of posting, the IG page saw a 6x increase in engagement and a 100% growth in followers. We achieved a collective view count of over 13 Lakhs with only 29 Reels.",
-      "Read this case study to find out how Blusteak did it.",
+      "Blusteak recently ran a series of Linkedin Lead Generation Ads for a Quality Management SaaS platform. The client has a lot of products catering to different industries, and it continuously faced a high CPL (Cost Per Lead) for its ads.",
+      "We worked on multiple targeting combinations. And within a month, the CPL (Cost Per Lead) came down by 23% of what it had been earlier. The number of quality leads also went up from 54% to a spectacular 80%.",
+      "Read this case study to find out how Blusteak did it. ",
     ],
     contents: [
       {
@@ -53,9 +54,70 @@ export const caseStudiesData = [
         ],
       },
       {
+        subHead: "The Ultimate Solution ",
+        details: [],
+        subSections: [
+          {
+            subHead: "Study previous ad performances and leads ",
+            details: [
+              "Since the client has a lot of products, we started by studying the existing AQLs (Automation Qualified Leads). We studied the ad impressions and clicks against the leads. Then, we selected those industries to target that seem to be most interested in the client’s products. ",
+            ],
+          },
+          {
+            subHead: "Target decision-makers of the companies",
+            details: [
+              "Next, we targeted the decision-makers (Above Manager Level executives) of the companies. We created lookalike audiences of the Lead Form Openers and Leads from the previous campaigns. We also excluded the Form Submitters to generate new leads.",
+            ],
+          },
+          {
+            subHead: "Design contextual creatives and CTAs ",
+            details: [
+              "Appropriate creatives and CTAs are as important as audience targeting. So, our creatives focused on the pain points and problems of the industries. We also refreshed the designs and tested different creative angles for the creatives.",
+              "The lead form CTAs were simple, eg, Read Case Study, Book A Demo, and Download Whitepaper. These don’t require a lot of commitment upfront but still bring quality sign-ups. ",
+            ],
+            images: [
+              {
+                src: case_1_img_1,
+                alt: "img",
+                caption: "",
+              },
+              {
+                src: case_1_img_2,
+                alt: "img",
+                caption: "",
+              },
+            ],
+          },
+          {
+            subHead: "Make lead forms user-friendly and relevant",
+            details: [
+              "Since there were a lot of products and different industries, we designed customized lead forms, categorized for each of the industries. It helped us with proper and contextual targeting, even for future campaigns.",
+              "We also considered the user-friendliness of the lead forms, to reduce the bounce rate. Each message was personalized and inviting, to make the leads eager to learn about the product. ",
+            ],
+          },
+          {
+            subHead: "Monitor and optimize everything",
+            details: [
+              "And then, we monitored the metrics. Each of the important metrics, like Cost Per Result, Clicks, CTR, Lead Form Opens and others, were monitored regularly. Consistent monitoring helped us ideate the best optimization methods.",
+              "So, we tweaked the parameters as needed, and generated quality leads for the client.",
+            ],
+          },
+        ],
+      },
+      {
         subHead: "The Result",
         details: [
-          "Our client has a suite of cloud-based quality management solutions to help businesses ensure consistent quality. The products are all connected together to help teams maintain consistency across the organization. It has solutions for various industries, from F&B to automotive and healthcare to aerospace and defense. And this variety made ad targeting tricky.",
+          "Here’s what the results were: ",
+          "Generated 49 leads at an average CPL of USD 399. It’s a 23% decrease from the previous CPL of USD 520.",
+          "Got 39 AQLs out of those leads, setting the conversion rate to 80% (a significant bump from the previous 54%)",
+          "The effective Cost Per AQL stood at USD 476. And that’s a 31% decrease from the previous 694.",
+        ],
+        images: [
+          {
+            src: case_1_img_3,
+            alt: "result",
+            caption: "",
+          },
         ],
       },
     ],
@@ -692,56 +754,101 @@ export const caseStudiesData = [
       },
     ],
   },
-  // {
-  //   thumbnail: "",
-  //   title: "",
-  //   description: "",
-  //   details: [],
-  //   contents: [
-  //     {
-  //       subHead: "",
-  //       details: [],
-  //     },
-  //     {
-  //       subHead: "",
-  //       details: [],
-  //     },
-  //     {
-  //       subHead: "",
-  //       details: [],
-  //       subSections: [
-  //         {
-  //           subHead: "",
-  //           details: [],
-  //         },
+  {
+    thumbnail: "",
+    title: "",
+    description: "",
+    details: [],
+    contents: [
+      {
+        subHead: "",
+        details: [],
+      },
+      {
+        subHead: "",
+        details: [],
+      },
+      {
+        subHead: "",
+        details: [],
+        subSections: [
+          {
+            subHead: "",
+            details: [],
+          },
 
-  //         {
-  //           subHead: "",
-  //           details: [],
-  //           images: [
-  //             {
-  //               src: "",
-  //               alt: "",
-  //               caption: "",
-  //             },
-  //           ],
-  //         },
-  //       ],
-  //     },
-  //   ],
-  // },
+          {
+            subHead: "",
+            details: [],
+            images: [
+              {
+                src: "",
+                alt: "",
+                caption: "",
+              },
+            ],
+          },
+        ],
+      },
+    ],
+  },
 ];
 
 export const screenshotData = [
-  { src: sc1, alt: "sc1" },
-  { src: sc2, alt: "sc2" },
-  { src: sc3, alt: "sc3" },
-  { src: sc4, alt: "sc4" },
-  { src: sc5, alt: "sc5" },
-  { src: sc6, alt: "sc6" },
-  { src: sc7, alt: "sc7" },
-  { src: sc8, alt: "sc8" },
-  { src: sc9, alt: "sc9" },
-  { src: sc10, alt: "sc10" },
-  { src: sc11, alt: "sc11" },
+  {
+    src: sc1,
+    alt: "sc1",
+    caption: "Reducing Cost per Result for an F&B Offline Store: A Case Study",
+  },
+  {
+    src: sc2,
+    alt: "sc2",
+    caption: "Cost-Effective Advertising for a Finance Client with 13L Spend",
+  },
+  {
+    src: sc3,
+    alt: "sc3",
+    caption:
+      "Generating 162 Leads with Just Google Ads: A Success Story for a US SaaS Client",
+  },
+  {
+    src: sc4,
+    alt: "sc4",
+    caption:
+      "Reducing Cost per Conversion by 40% for an Australian Fabric Store through Google Ads",
+  },
+  {
+    src: sc5,
+    alt: "sc5",
+    caption:
+      "Improving ROAS from 0.5 to 4+ with UGC Content for a Health Care E-commerce Brand",
+  },
+  {
+    src: sc7,
+    alt: "sc7",
+    caption:
+      "Achieving ROAS of 13+ for an Ayurvedic E-commerce Client: A Case Study",
+  },
+  {
+    src: sc8,
+    alt: "sc8",
+    caption:
+      "18 ROAS from Meta Ads: A Success Story for an Australian Fabric Store",
+  },
+  {
+    src: sc9,
+    alt: "sc9",
+    caption:
+      "Effective Management of $200000 Annual Ad Spend for a B2B SaaS Company",
+  },
+  {
+    src: sc10,
+    alt: "sc10",
+    caption: "Optimizing Ad Spend of 48L for a D2C Client: A Case Study",
+  },
+  {
+    src: sc11,
+    alt: "sc11",
+    caption: "Reducing CPL from Rs.100+ to Rs.9: A Success Story",
+  },
 ];

@@ -356,3 +356,9 @@ header {
   text-decoration: underline;
   cursor: pointer;
 }
+.imgCaptionSc {
+  font-weight: bolder;
+  color: darkblue;
+  text-decoration: underline;
+  font-size: large;
+}

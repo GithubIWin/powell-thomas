@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "./style.css";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
@@ -121,12 +121,19 @@ const StudeyDetails = (props) => {
   const HandleClick = () => {
     setOpenStudyDetail(false);
   };
+  useEffect(() => {
+    var element = document.getElementById("caseStudyTitle");
+    element.scrollIntoView();
+  }, []);
+
   return (
-    <div className="detailsContainer">
+    <div id="caseStudyTitle" className="detailsContainer">
       <p className="backArrow" onClick={HandleClick}>
         <i class="fas fa-angle-double-left"></i>See Other case Studies
       </p>
-      <h1 className="detailTitle">{caseStudy.title}</h1>
+      <h1  className="detailTitle">
+        {caseStudy.title}
+      </h1>
       {caseStudy.details.map((iter, key) => (
         <p className="detailContent" key={key}>
           {iter}

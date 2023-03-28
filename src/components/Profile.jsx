@@ -77,7 +77,7 @@ const Profile = () => {
                       <Col lg="6" xl="6" md="6"  sm="12" xs="12">
                         <div class="counter_wrap">
                           <h1 class="cz_counter_num_wrap">
-                            <span class="cz_counter_num">500</span>
+                            <span class="cz_counter_num">200</span>
                             <i>Mn+</i>
                           </h1>
                           <span class="cz_counter_after">REVENUE</span>

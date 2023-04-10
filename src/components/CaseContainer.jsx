@@ -9,7 +9,7 @@ import StudeyDetails from "./StudeyDetails";
 const CaseContainer = (props) => {
   const [seletedStudy, setSelectedStudy] = useState({});
   // const [openStudyDetail, setOpenStudyDetail] = useState(false);
-  const {openStudyDetail, setOpenStudyDetail} = props
+  const { openStudyDetail, setOpenStudyDetail } = props;
 
   return (
     <Container>
@@ -18,9 +18,9 @@ const CaseContainer = (props) => {
           {" "}
           <h1 className="caseHeading fontSize60">Case Studies</h1>
           <p className="caseDesc">
-            Having a clear Digital Marketing Strategy can help your brand to
-            thrive in this mobile-first world. Yes, you can trust us to build
-            and run your social media campaigns.
+            Check out the case studies below and see how paid marketing
+            campaigns have helped businesses like yours to thrive in today's
+            mobile-first world.
           </p>
         </Col>
       </Row>
